@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Wizz",
-  "description": "Wizz",
-  "version": "0.0.0.3",
+  "name": "Wizzair currency converter",
+  "description": "Convert currencies on page",
+  "version": "0.0.0.4",
   "permissions": [
     "storage",
     "tabs",
